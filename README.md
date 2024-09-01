@@ -21,6 +21,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manalimanwadkar&show_icons=true&locale=en" alt="manalimanwadkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manali8327&show_icons=true&locale=en" alt="manalimanwadkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manalimanwadkar&" alt="manalimanwadkar" /></p>
