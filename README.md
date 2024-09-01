@@ -1,4 +1,4 @@
-![Header](https://github.com/Ajay8327/Ajay8327/blob/main/github-header-image.png)
+![Header](https://github.com/Manali8327/Manali8327/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Manali Manwadkar</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
 
